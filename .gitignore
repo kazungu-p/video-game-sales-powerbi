@@ -1,0 +1,4 @@
+*.tmp
+*.log
+# If your raw Kaggle CSV file is larger than 100MB, uncomment the line below:
+# *.csv
